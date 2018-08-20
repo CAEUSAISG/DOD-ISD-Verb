@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the DoD-ISD-Verb Profile Community of Practice Site
 
 You can use the [editor on GitHub](https://github.com/CAEUSAISG/DOD-ISD-Verb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
